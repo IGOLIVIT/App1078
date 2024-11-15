@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CarsModel" representedClassName="CarsModel" syncable="YES" codeGenerationType="class">
+        <attribute name="cDriver" optional="YES" attributeType="String"/>
+        <attribute name="cLastSD" optional="YES" attributeType="String"/>
+        <attribute name="cLP" optional="YES" attributeType="String"/>
+        <attribute name="cMil" optional="YES" attributeType="String"/>
+        <attribute name="cMM" optional="YES" attributeType="String"/>
+        <attribute name="cNextSD" optional="YES" attributeType="String"/>
+        <attribute name="cStatus" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="OrderModel" representedClassName="OrderModel" syncable="YES" codeGenerationType="class">
+        <attribute name="orDOLoc" optional="YES" attributeType="String"/>
+        <attribute name="orDriver" optional="YES" attributeType="String"/>
+        <attribute name="orFare" optional="YES" attributeType="String"/>
+        <attribute name="orID" optional="YES" attributeType="String"/>
+        <attribute name="orPULoc" optional="YES" attributeType="String"/>
+        <attribute name="orStatus" optional="YES" attributeType="String"/>
+        <attribute name="orTPU" optional="YES" attributeType="String"/>
+        <attribute name="orVeh" optional="YES" attributeType="String"/>
+    </entity>
+</model>
