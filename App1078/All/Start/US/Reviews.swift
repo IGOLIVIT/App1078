@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import StoreKit
 
 struct Reviews: View {
     var body: some View {
@@ -59,6 +60,10 @@ struct Reviews: View {
             }
         }
         .ignoresSafeArea()
+        .onAppear {
+            
+            SKStoreReviewController.requestReview()
+        }
     }
 }
 

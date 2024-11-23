@@ -32,6 +32,9 @@
 		78B1C7FD2CE67D4F00360F92 /* AddOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C7FC2CE67D4F00360F92 /* AddOrder.swift */; };
 		78B1C7FF2CE77C9600360F92 /* AddCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C7FE2CE77C9600360F92 /* AddCar.swift */; };
 		78B1C8032CE7889B00360F92 /* CarDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C8022CE7889B00360F92 /* CarDetail.swift */; };
+		78EB5B3F2CF2273E00B7ECCC /* Dnues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78EB5B3E2CF2273E00B7ECCC /* Dnues.swift */; };
+		78EB5B412CF2274A00B7ECCC /* Wsalnim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78EB5B402CF2274A00B7ECCC /* Wsalnim.swift */; };
+		78EB5B432CF2275200B7ECCC /* Sfat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78EB5B422CF2275200B7ECCC /* Sfat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +65,9 @@
 		78B1C7FC2CE67D4F00360F92 /* AddOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOrder.swift; sourceTree = "<group>"; };
 		78B1C7FE2CE77C9600360F92 /* AddCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCar.swift; sourceTree = "<group>"; };
 		78B1C8022CE7889B00360F92 /* CarDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDetail.swift; sourceTree = "<group>"; };
+		78EB5B3E2CF2273E00B7ECCC /* Dnues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dnues.swift; sourceTree = "<group>"; };
+		78EB5B402CF2274A00B7ECCC /* Wsalnim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wsalnim.swift; sourceTree = "<group>"; };
+		78EB5B422CF2275200B7ECCC /* Sfat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sfat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +155,9 @@
 				78B1C7EC2CE64F1700360F92 /* CoreDataStack.swift */,
 				78B1C7EE2CE64F1D00360F92 /* Array.swift */,
 				78B1C7F02CE64F2500360F92 /* DateConvert.swift */,
+				78EB5B3E2CF2273E00B7ECCC /* Dnues.swift */,
+				78EB5B402CF2274A00B7ECCC /* Wsalnim.swift */,
+				78EB5B422CF2275200B7ECCC /* Sfat.swift */,
 			);
 			path = Ext;
 			sourceTree = "<group>";
@@ -333,6 +342,7 @@
 			files = (
 				78B1C7F52CE64F3500360F92 /* HomeViewModel.swift in Sources */,
 				78B1C7E42CE64EF800360F92 /* HomeView.swift in Sources */,
+				78EB5B3F2CF2273E00B7ECCC /* Dnues.swift in Sources */,
 				78B1C7FD2CE67D4F00360F92 /* AddOrder.swift in Sources */,
 				78B1C7BB2CE64E6600360F92 /* ContentView.swift in Sources */,
 				78B1C7B92CE64E6600360F92 /* App1078App.swift in Sources */,
@@ -341,6 +351,8 @@
 				78B1C7DA2CE64ED500360F92 /* R1.swift in Sources */,
 				78B1C7FF2CE77C9600360F92 /* AddCar.swift in Sources */,
 				78B1C7EB2CE64F0D00360F92 /* CoreModel.xcdatamodeld in Sources */,
+				78EB5B412CF2274A00B7ECCC /* Wsalnim.swift in Sources */,
+				78EB5B432CF2275200B7ECCC /* Sfat.swift in Sources */,
 				78B1C7F12CE64F2500360F92 /* DateConvert.swift in Sources */,
 				78B1C7DC2CE64EDB00360F92 /* R2.swift in Sources */,
 				78B1C7F72CE64F3C00360F92 /* GarageViewModel.swift in Sources */,
